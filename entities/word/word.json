@@ -1,0 +1,1484 @@
+[
+ {
+  "index": 0,
+  "title": "mace",
+  "type": "weapon"
+ },
+ {
+  "index": 1,
+  "title": "maul",
+  "type": "weapon"
+ },
+ {
+  "index": 2,
+  "title": "gavel",
+  "type": "weapon"
+ },
+ {
+  "index": 3,
+  "title": "mallet",
+  "type": "weapon"
+ },
+ {
+  "index": 4,
+  "title": "cudgel",
+  "type": "weapon"
+ },
+ {
+  "index": 5,
+  "title": "hammer",
+  "type": "weapon"
+ },
+ {
+  "index": 6,
+  "title": "pike",
+  "type": "weapon"
+ },
+ {
+  "index": 7,
+  "title": "spear",
+  "type": "weapon"
+ },
+ {
+  "index": 8,
+  "title": "lance",
+  "type": "weapon"
+ },
+ {
+  "index": 9,
+  "title": "spike",
+  "type": "weapon"
+ },
+ {
+  "index": 10,
+  "title": "shaft",
+  "type": "weapon"
+ },
+ {
+  "index": 11,
+  "title": "staff",
+  "type": "weapon"
+ },
+ {
+  "index": 12,
+  "title": "epee",
+  "type": "weapon"
+ },
+ {
+  "index": 13,
+  "title": "sword",
+  "type": "weapon"
+ },
+ {
+  "index": 14,
+  "title": "kukri",
+  "type": "weapon"
+ },
+ {
+  "index": 15,
+  "title": "saber",
+  "type": "weapon"
+ },
+ {
+  "index": 16,
+  "title": "blade",
+  "type": "weapon"
+ },
+ {
+  "index": 17,
+  "title": "rapier",
+  "type": "weapon"
+ },
+ {
+  "index": 18,
+  "title": "hook",
+  "type": "weapon"
+ },
+ {
+  "index": 19,
+  "title": "shiv",
+  "type": "weapon"
+ },
+ {
+  "index": 20,
+  "title": "razor",
+  "type": "weapon"
+ },
+ {
+  "index": 21,
+  "title": "knife",
+  "type": "weapon"
+ },
+ {
+  "index": 22,
+  "title": "scythe",
+  "type": "weapon"
+ },
+ {
+  "index": 23,
+  "title": "dagger",
+  "type": "weapon"
+ },
+ {
+  "index": 24,
+  "title": "might",
+  "type": "aspect",
+  "offense": 6,
+  "defense": 1
+ },
+ {
+  "index": 25,
+  "title": "power",
+  "type": "aspect",
+  "offense": 6,
+  "defense": 1
+ },
+ {
+  "index": 26,
+  "title": "force",
+  "type": "aspect",
+  "offense": 6,
+  "defense": 1
+ },
+ {
+  "index": 27,
+  "title": "vigour",
+  "type": "aspect",
+  "offense": 6,
+  "defense": 1
+ },
+ {
+  "index": 28,
+  "title": "flesh",
+  "type": "aspect",
+  "offense": 6,
+  "defense": 1
+ },
+ {
+  "index": 29,
+  "title": "muscle",
+  "type": "aspect",
+  "offense": 6,
+  "defense": 1
+ },
+ {
+  "index": 30,
+  "title": "mind",
+  "type": "aspect",
+  "offense": 5,
+  "defense": 2
+ },
+ {
+  "index": 31,
+  "title": "sanity",
+  "type": "aspect",
+  "offense": 5,
+  "defense": 2
+ },
+ {
+  "index": 32,
+  "title": "logic",
+  "type": "aspect",
+  "offense": 5,
+  "defense": 2
+ },
+ {
+  "index": 33,
+  "title": "poise",
+  "type": "aspect",
+  "offense": 5,
+  "defense": 2
+ },
+ {
+  "index": 34,
+  "title": "brain",
+  "type": "aspect",
+  "offense": 5,
+  "defense": 2
+ },
+ {
+  "index": 35,
+  "title": "nerve",
+  "type": "aspect",
+  "offense": 5,
+  "defense": 2
+ },
+ {
+  "index": 36,
+  "title": "grace",
+  "type": "aspect",
+  "offense": 4,
+  "defense": 3
+ },
+ {
+  "index": 37,
+  "title": "style",
+  "type": "aspect",
+  "offense": 4,
+  "defense": 3
+ },
+ {
+  "index": 38,
+  "title": "deft",
+  "type": "aspect",
+  "offense": 4,
+  "defense": 3
+ },
+ {
+  "index": 39,
+  "title": "guile",
+  "type": "aspect",
+  "offense": 4,
+  "defense": 3
+ },
+ {
+  "index": 40,
+  "title": "blood",
+  "type": "aspect",
+  "offense": 4,
+  "defense": 3
+ },
+ {
+  "index": 41,
+  "title": "heart",
+  "type": "aspect",
+  "offense": 4,
+  "defense": 3
+ },
+ {
+  "index": 42,
+  "title": "will",
+  "type": "aspect",
+  "offense": 1,
+  "defense": 6
+ },
+ {
+  "index": 43,
+  "title": "wish",
+  "type": "aspect",
+  "offense": 1,
+  "defense": 6
+ },
+ {
+  "index": 44,
+  "title": "dream",
+  "type": "aspect",
+  "offense": 1,
+  "defense": 6
+ },
+ {
+  "index": 45,
+  "title": "energy",
+  "type": "aspect",
+  "offense": 1,
+  "defense": 6
+ },
+ {
+  "index": 46,
+  "title": "morale",
+  "type": "aspect",
+  "offense": 1,
+  "defense": 6
+ },
+ {
+  "index": 47,
+  "title": "bone",
+  "type": "aspect",
+  "offense": 1,
+  "defense": 6
+ },
+ {
+  "index": 48,
+  "title": "sense",
+  "type": "aspect",
+  "offense": 2,
+  "defense": 5
+ },
+ {
+  "index": 49,
+  "title": "vision",
+  "type": "aspect",
+  "offense": 2,
+  "defense": 5
+ },
+ {
+  "index": 50,
+  "title": "smell",
+  "type": "aspect",
+  "offense": 2,
+  "defense": 5
+ },
+ {
+  "index": 51,
+  "title": "glance",
+  "type": "aspect",
+  "offense": 2,
+  "defense": 5
+ },
+ {
+  "index": 52,
+  "title": "sight",
+  "type": "aspect",
+  "offense": 2,
+  "defense": 5
+ },
+ {
+  "index": 53,
+  "title": "skin",
+  "type": "aspect",
+  "offense": 2,
+  "defense": 5
+ },
+ {
+  "index": 54,
+  "title": "luck",
+  "type": "aspect",
+  "offense": 3,
+  "defense": 4
+ },
+ {
+  "index": 55,
+  "title": "fate",
+  "type": "aspect",
+  "offense": 3,
+  "defense": 4
+ },
+ {
+  "index": 56,
+  "title": "karma",
+  "type": "aspect",
+  "offense": 3,
+  "defense": 4
+ },
+ {
+  "index": 57,
+  "title": "chance",
+  "type": "aspect",
+  "offense": 3,
+  "defense": 4
+ },
+ {
+  "index": 58,
+  "title": "doom",
+  "type": "aspect",
+  "offense": 3,
+  "defense": 4
+ },
+ {
+  "index": 59,
+  "title": "aura",
+  "type": "aspect",
+  "offense": 3,
+  "defense": 4
+ },
+ {
+  "index": 60,
+  "title": "water",
+  "type": "element",
+  "subtype": 0,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 61,
+  "title": "surge",
+  "type": "element",
+  "subtype": 0,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 62,
+  "title": "fluid",
+  "type": "element",
+  "subtype": 0,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 63,
+  "title": "rain",
+  "type": "element",
+  "subtype": 0,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 64,
+  "title": "damp",
+  "type": "element",
+  "subtype": 0,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 65,
+  "title": "splash",
+  "type": "element",
+  "subtype": 0,
+  "offense": 2
+ },
+ {
+  "index": 66,
+  "title": "wind",
+  "type": "element",
+  "subtype": 1,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 67,
+  "title": "breath",
+  "type": "element",
+  "subtype": 1,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 68,
+  "title": "inhale",
+  "type": "element",
+  "subtype": 1,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 69,
+  "title": "vortex",
+  "type": "element",
+  "subtype": 1,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 70,
+  "title": "cloud",
+  "type": "element",
+  "subtype": 1,
+  "offense": 2
+ },
+ {
+  "index": 71,
+  "title": "breeze",
+  "type": "element",
+  "subtype": 1,
+  "offense": 2
+ },
+ {
+  "index": 72,
+  "title": "fire",
+  "type": "element",
+  "subtype": 2,
+  "offense": 2
+ },
+ {
+  "index": 73,
+  "title": "flame",
+  "type": "element",
+  "subtype": 2,
+  "offense": 2
+ },
+ {
+  "index": 74,
+  "title": "heat",
+  "type": "element",
+  "subtype": 2,
+  "offense": 2
+ },
+ {
+  "index": 75,
+  "title": "burn",
+  "type": "element",
+  "subtype": 2,
+  "offense": 2
+ },
+ {
+  "index": 76,
+  "title": "blaze",
+  "type": "element",
+  "subtype": 2,
+  "offense": 2
+ },
+ {
+  "index": 77,
+  "title": "scorch",
+  "type": "element",
+  "subtype": 2,
+  "offense": 2
+ },
+ {
+  "index": 78,
+  "title": "earth",
+  "type": "element",
+  "subtype": 3,
+  "defense": 2
+ },
+ {
+  "index": 79,
+  "title": "soil",
+  "type": "element",
+  "subtype": 3,
+  "defense": 2
+ },
+ {
+  "index": 80,
+  "title": "rock",
+  "type": "element",
+  "subtype": 3,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 81,
+  "title": "stone",
+  "type": "element",
+  "subtype": 3,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 82,
+  "title": "cliff",
+  "type": "element",
+  "subtype": 3,
+  "defense": 2
+ },
+ {
+  "index": 83,
+  "title": "ground",
+  "type": "element",
+  "subtype": 3,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 84,
+  "title": "frost",
+  "type": "element",
+  "subtype": 0.1,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 85,
+  "title": "cold",
+  "type": "element",
+  "subtype": 0.1,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 86,
+  "title": "chill",
+  "type": "element",
+  "subtype": 0.1,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 87,
+  "title": "snow",
+  "type": "element",
+  "subtype": 0.1,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 88,
+  "title": "steam",
+  "type": "element",
+  "subtype": 0.2,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 89,
+  "title": "smog",
+  "type": "element",
+  "subtype": 0.2,
+  "defense": 2
+ },
+ {
+  "index": 90,
+  "title": "mist",
+  "type": "element",
+  "subtype": 0.2,
+  "defense": 2
+ },
+ {
+  "index": 91,
+  "title": "hazy",
+  "type": "element",
+  "subtype": 0.2,
+  "defense": 2
+ },
+ {
+  "index": 92,
+  "title": "muck",
+  "type": "element",
+  "subtype": 0.3,
+  "defense": 2
+ },
+ {
+  "index": 93,
+  "title": "dirt",
+  "type": "element",
+  "subtype": 0.3,
+  "defense": 2
+ },
+ {
+  "index": 94,
+  "title": "filth",
+  "type": "element",
+  "subtype": 0.3,
+  "defense": 2
+ },
+ {
+  "index": 95,
+  "title": "grime",
+  "type": "element",
+  "subtype": 0.3,
+  "defense": 2
+ },
+ {
+  "index": 96,
+  "title": "lava",
+  "type": "element",
+  "subtype": 1.2,
+  "offense": 2
+ },
+ {
+  "index": 97,
+  "title": "ashes",
+  "type": "element",
+  "subtype": 1.2,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 98,
+  "title": "glass",
+  "type": "element",
+  "subtype": 1.2,
+  "defense": 2
+ },
+ {
+  "index": 99,
+  "title": "crystal",
+  "type": "element",
+  "subtype": 1.2,
+  "defense": 2
+ },
+ {
+  "index": 100,
+  "title": "storm",
+  "type": "element",
+  "subtype": 1.3,
+  "offense": 2
+ },
+ {
+  "index": 101,
+  "title": "dust",
+  "type": "element",
+  "subtype": 1.3,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 102,
+  "title": "gale",
+  "type": "element",
+  "subtype": 1.3,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 103,
+  "title": "sulfur",
+  "type": "element",
+  "subtype": 1.3,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 104,
+  "title": "sand",
+  "type": "element",
+  "subtype": 2.3,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 105,
+  "title": "flurry",
+  "type": "element",
+  "subtype": 2.3,
+  "offense": 2
+ },
+ {
+  "index": 106,
+  "title": "barhan",
+  "type": "element",
+  "subtype": 2.3,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 107,
+  "title": "haboob",
+  "type": "element",
+  "subtype": 2.3,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 108,
+  "title": "order",
+  "type": "element",
+  "subtype": 4,
+  "defense": 2
+ },
+ {
+  "index": 109,
+  "title": "rule",
+  "type": "element",
+  "subtype": 4,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 110,
+  "title": "fact",
+  "type": "element",
+  "subtype": 4,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 111,
+  "title": "reason",
+  "type": "element",
+  "subtype": 4,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 112,
+  "title": "truth",
+  "type": "element",
+  "subtype": 4,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 113,
+  "title": "deed",
+  "type": "element",
+  "subtype": 4,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 114,
+  "title": "light",
+  "type": "element",
+  "subtype": 5,
+  "offense": 2
+ },
+ {
+  "index": 115,
+  "title": "dawn",
+  "type": "element",
+  "subtype": 5,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 116,
+  "title": "star",
+  "type": "element",
+  "subtype": 5,
+  "offense": 2
+ },
+ {
+  "index": 117,
+  "title": "glow",
+  "type": "element",
+  "subtype": 5,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 118,
+  "title": "gleam",
+  "type": "element",
+  "subtype": 5,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 119,
+  "title": "sheer",
+  "type": "element",
+  "subtype": 5,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 120,
+  "title": "life",
+  "type": "element",
+  "subtype": 6,
+  "defense": 2
+ },
+ {
+  "index": 121,
+  "title": "yeast",
+  "type": "element",
+  "subtype": 6,
+  "defense": 2
+ },
+ {
+  "index": 122,
+  "title": "ergot",
+  "type": "element",
+  "subtype": 6,
+  "defense": 2
+ },
+ {
+  "index": 123,
+  "title": "growth",
+  "type": "element",
+  "subtype": 6,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 124,
+  "title": "fungus",
+  "type": "element",
+  "subtype": 6,
+  "defense": 2
+ },
+ {
+  "index": 125,
+  "title": "mildew",
+  "type": "element",
+  "subtype": 6,
+  "defense": 2
+ },
+ {
+  "index": 126,
+  "title": "chaos",
+  "type": "element",
+  "subtype": 7,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 127,
+  "title": "mess",
+  "type": "element",
+  "subtype": 7,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 128,
+  "title": "havoc",
+  "type": "element",
+  "subtype": 7,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 129,
+  "title": "enigma",
+  "type": "element",
+  "subtype": 7,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 130,
+  "title": "puzzle",
+  "type": "element",
+  "subtype": 7,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 131,
+  "title": "oddity",
+  "type": "element",
+  "subtype": 7,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 132,
+  "title": "dark",
+  "type": "element",
+  "subtype": 8,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 133,
+  "title": "dusk",
+  "type": "element",
+  "subtype": 8,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 134,
+  "title": "shadow",
+  "type": "element",
+  "subtype": 8,
+  "defense": 2
+ },
+ {
+  "index": 135,
+  "title": "shade",
+  "type": "element",
+  "subtype": 8,
+  "defense": 2
+ },
+ {
+  "index": 136,
+  "title": "gloom",
+  "type": "element",
+  "subtype": 8,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 137,
+  "title": "umbra",
+  "type": "element",
+  "subtype": 8,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 138,
+  "title": "death",
+  "type": "element",
+  "subtype": 9,
+  "offense": 2
+ },
+ {
+  "index": 139,
+  "title": "mortem",
+  "type": "element",
+  "subtype": 9,
+  "offense": 2
+ },
+ {
+  "index": 140,
+  "title": "finish",
+  "type": "element",
+  "subtype": 9,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 141,
+  "title": "anima",
+  "type": "element",
+  "subtype": 9,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 142,
+  "title": "spirit",
+  "type": "element",
+  "subtype": 9,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 143,
+  "title": "soul",
+  "type": "element",
+  "subtype": 9,
+  "offense": 1,
+  "defense": 1
+ },
+ {
+  "index": 144,
+  "title": "faith",
+  "type": "element",
+  "subtype": 4.5,
+  "defense": 2
+ },
+ {
+  "index": 145,
+  "title": "mercy",
+  "type": "element",
+  "subtype": 4.5,
+  "defense": 2
+ },
+ {
+  "index": 146,
+  "title": "piety",
+  "type": "element",
+  "subtype": 4.5,
+  "defense": 2
+ },
+ {
+  "index": 147,
+  "title": "honor",
+  "type": "element",
+  "subtype": 4.5,
+  "defense": 2
+ },
+ {
+  "index": 148,
+  "title": "toxic",
+  "type": "element",
+  "subtype": 6.7,
+  "offense": 2
+ },
+ {
+  "index": 149,
+  "title": "poison",
+  "type": "element",
+  "subtype": 6.7,
+  "offense": 2
+ },
+ {
+  "index": 150,
+  "title": "plague",
+  "type": "element",
+  "subtype": 6.7,
+  "offense": 2
+ },
+ {
+  "index": 151,
+  "title": "rust",
+  "type": "element",
+  "subtype": 6.7,
+  "offense": 2
+ },
+ {
+  "index": 152,
+  "title": "horror",
+  "type": "element",
+  "subtype": 8.9,
+  "offense": 2
+ },
+ {
+  "index": 153,
+  "title": "evil",
+  "type": "element",
+  "subtype": 8.9,
+  "offense": 2
+ },
+ {
+  "index": 154,
+  "title": "pain",
+  "type": "element",
+  "subtype": 8.9,
+  "offense": 2
+ },
+ {
+  "index": 155,
+  "title": "agony",
+  "type": "element",
+  "subtype": 8.9,
+  "offense": 2
+ },
+ {
+  "index": 156,
+  "title": "mundane",
+  "type": "adjective"
+ },
+ {
+  "index": 157,
+  "title": "elegant",
+  "type": "adjective"
+ },
+ {
+  "index": 158,
+  "title": "intense",
+  "type": "adjective"
+ },
+ {
+  "index": 159,
+  "title": "patient",
+  "type": "adjective"
+ },
+ {
+  "index": 160,
+  "title": "opulent",
+  "type": "adjective"
+ },
+ {
+  "index": 161,
+  "title": "immense",
+  "type": "adjective"
+ },
+ {
+  "index": 162,
+  "title": "calmest",
+  "type": "adjective"
+ },
+ {
+  "index": 163,
+  "title": "careful",
+  "type": "adjective"
+ },
+ {
+  "index": 164,
+  "title": "baleful",
+  "type": "adjective"
+ },
+ {
+  "index": 165,
+  "title": "bravest",
+  "type": "adjective"
+ },
+ {
+  "index": 166,
+  "title": "fervent",
+  "type": "adjective"
+ },
+ {
+  "index": 167,
+  "title": "natural",
+  "type": "adjective"
+ },
+ {
+  "index": 168,
+  "title": "serious",
+  "type": "adjective"
+ },
+ {
+  "index": 169,
+  "title": "instant",
+  "type": "adjective"
+ },
+ {
+  "index": 170,
+  "title": "endless",
+  "type": "adjective"
+ },
+ {
+  "index": 171,
+  "title": "unusual",
+  "type": "adjective"
+ },
+ {
+  "index": 172,
+  "title": "vibrant",
+  "type": "adjective"
+ },
+ {
+  "index": 173,
+  "title": "popular",
+  "type": "adjective"
+ },
+ {
+  "index": 174,
+  "title": "insipid",
+  "type": "adjective"
+ },
+ {
+  "index": 175,
+  "title": "radiant",
+  "type": "adjective"
+ },
+ {
+  "index": 176,
+  "title": "visible",
+  "type": "adjective"
+ },
+ {
+  "index": 177,
+  "title": "obvious",
+  "type": "adjective"
+ },
+ {
+  "index": 178,
+  "title": "reliable",
+  "type": "adjective"
+ },
+ {
+  "index": 179,
+  "title": "illegal",
+  "type": "adjective"
+ },
+ {
+  "index": 180,
+  "title": "fateful",
+  "type": "adjective"
+ },
+ {
+  "index": 181,
+  "title": "perfect",
+  "type": "adjective"
+ },
+ {
+  "index": 182,
+  "title": "sincere",
+  "type": "adjective"
+ },
+ {
+  "index": 183,
+  "title": "average",
+  "type": "adjective"
+ },
+ {
+  "index": 184,
+  "title": "fragile",
+  "type": "adjective"
+ },
+ {
+  "index": 185,
+  "title": "tainted",
+  "type": "adjective"
+ },
+ {
+  "index": 186,
+  "title": "toss",
+  "type": "reaction"
+ },
+ {
+  "index": 187,
+  "title": "hurl",
+  "type": "reaction"
+ },
+ {
+  "index": 188,
+  "title": "roll",
+  "type": "reaction"
+ },
+ {
+  "index": 189,
+  "title": "eject",
+  "type": "reaction"
+ },
+ {
+  "index": 190,
+  "title": "throw",
+  "type": "reaction"
+ },
+ {
+  "index": 191,
+  "title": "propel",
+  "type": "reaction"
+ },
+ {
+  "index": 192,
+  "title": "stab",
+  "type": "reaction"
+ },
+ {
+  "index": 193,
+  "title": "slash",
+  "type": "reaction"
+ },
+ {
+  "index": 194,
+  "title": "slice",
+  "type": "reaction"
+ },
+ {
+  "index": 195,
+  "title": "lunge",
+  "type": "reaction"
+ },
+ {
+  "index": 196,
+  "title": "strike",
+  "type": "reaction"
+ },
+ {
+  "index": 197,
+  "title": "pierce",
+  "type": "reaction"
+ },
+ {
+  "index": 198,
+  "title": "jump",
+  "type": "reaction"
+ },
+ {
+  "index": 199,
+  "title": "leap",
+  "type": "reaction"
+ },
+ {
+  "index": 200,
+  "title": "block",
+  "type": "reaction"
+ },
+ {
+  "index": 201,
+  "title": "parry",
+  "type": "reaction"
+ },
+ {
+  "index": 202,
+  "title": "dodge",
+  "type": "reaction"
+ },
+ {
+  "index": 203,
+  "title": "evade",
+  "type": "reaction"
+ },
+ {
+  "index": 204,
+  "title": "chain",
+  "type": "effect"
+ },
+ {
+  "index": 205,
+  "title": "wave",
+  "type": "effect"
+ },
+ {
+  "index": 206,
+  "title": "beam",
+  "type": "effect"
+ },
+ {
+  "index": 207,
+  "title": "blast",
+  "type": "effect"
+ },
+ {
+  "index": 208,
+  "title": "pillar",
+  "type": "effect"
+ },
+ {
+  "index": 209,
+  "title": "area",
+  "type": "effect"
+ },
+ {
+  "index": 210,
+  "title": "ball",
+  "type": "effect"
+ },
+ {
+  "index": 211,
+  "title": "burst",
+  "type": "effect"
+ },
+ {
+  "index": 212,
+  "title": "arrow",
+  "type": "effect"
+ },
+ {
+  "index": 213,
+  "title": "dart",
+  "type": "effect"
+ },
+ {
+  "index": 214,
+  "title": "wound",
+  "type": "effect"
+ },
+ {
+  "index": 215,
+  "title": "injury",
+  "type": "effect"
+ },
+ {
+  "index": 216,
+  "title": "trauma",
+  "type": "effect"
+ },
+ {
+  "index": 217,
+  "title": "bruise",
+  "type": "effect"
+ },
+ {
+  "index": 218,
+  "title": "harm",
+  "type": "effect"
+ },
+ {
+  "index": 219,
+  "title": "gash",
+  "type": "effect"
+ },
+ {
+  "index": 220,
+  "title": "hurt",
+  "type": "effect"
+ },
+ {
+  "index": 221,
+  "title": "lesion",
+  "type": "effect"
+ },
+ {
+  "index": 222,
+  "title": "shock",
+  "type": "effect"
+ },
+ {
+  "index": 223,
+  "title": "maim",
+  "type": "effect"
+ },
+ {
+  "index": 224,
+  "title": "hurdle",
+  "type": "effect"
+ },
+ {
+  "index": 225,
+  "title": "wall",
+  "type": "effect"
+ },
+ {
+  "index": 226,
+  "title": "aegis",
+  "type": "effect"
+ },
+ {
+  "index": 227,
+  "title": "dome",
+  "type": "effect"
+ },
+ {
+  "index": 228,
+  "title": "bounce",
+  "type": "effect"
+ },
+ {
+  "index": 229,
+  "title": "abyss",
+  "type": "effect"
+ },
+ {
+  "index": 230,
+  "title": "chasm",
+  "type": "effect"
+ },
+ {
+  "index": 231,
+  "title": "edge",
+  "type": "effect"
+ },
+ {
+  "index": 232,
+  "title": "mirror",
+  "type": "effect"
+ },
+ {
+  "index": 233,
+  "title": "mirage",
+  "type": "effect"
+ }
+]

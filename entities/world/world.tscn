@@ -1,0 +1,14 @@
+[gd_scene load_steps=2 format=3 uid="uid://dpq0g6jrlkuea"]
+
+[ext_resource type="Script" path="res://entities/world/world.gd" id="1_sbgiu"]
+
+[node name="World" type="Node2D"]
+y_sort_enabled = true
+script = ExtResource("1_sbgiu")
+
+[node name="FPS" type="Label" parent="."]
+visible = false
+offset_right = 40.0
+offset_bottom = 23.0
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
