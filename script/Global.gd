@@ -22,6 +22,7 @@ func init_dict() -> void:
 	init_direction()
 	
 	init_word()
+	init_aftertaste()
 	
 func init_direction() -> void:
 	dict.direction = {}
@@ -70,7 +71,62 @@ func init_word() -> void:
 		dict.word.type[word.type].append(data.title)
 	
 		dict.word.index[word.index] = data
-		dict.word.title[word.title] = data.title
+		dict.word.title[word.title] = word.index
+	
+	var letters = {}
+	for aftertaste in dict.word.title:
+		for letter in aftertaste:
+			if !letters.has(letter):
+				letters[letter] = 0
+			
+			letters[letter] += 1
+	
+	var keys = letters.keys()
+	keys.sort_custom(func(a, b): return letters[a] < letters[b])
+	var sorted_lettes = {}
+	for letter in keys:
+		sorted_lettes[letter] = letters[letter]
+	#print(sorted_lettes)
+	#print(sorted_lettes.keys().size())
+	
+	#var aftertaste_keys = init_aftertaste()
+	#var deficient_letters = keys.filter(func(a): return !aftertaste_keys.has(a))
+	#print(deficient_letters)
+	
+func init_aftertaste() -> Array:
+	dict.aftertaste = {}
+	dict.aftertaste.size = {}
+	dict.aftertaste.title = {}
+	#arr.aftertaste = ["award", "bless", "bonus", "reward", "emblem", "bounty", "triumph", "benefit", "payment", "trophy", "kudos", "grant", "glory", "badge", "credit", "homage", "medal", "relic", "honor", "token", "favor", "symbol", "titul", "bravo"]
+	arr.aftertaste = ["award", "bless", "bonus", "reward", "emblem", "bounty", "triumph", "benefit", "payment", "trophy", "kudos", "grant", "glory", "badge", "credit", "homage", "kudos", "grant", "glory", "badge", "credit", "homage", "medal", "relic", "honor", "token", "favor", "symbol", "titul", "bravo"]
+	
+	for aftertaste in arr.aftertaste:
+		var size = aftertaste.length()
+		
+		if !dict.aftertaste.size.has(size):
+			dict.aftertaste.size[size] = []
+		
+		dict.aftertaste.size[size].append(aftertaste)
+	
+	#for size in dict.aftertaste.size:
+	#	print([size, dict.aftertaste.size[size].size()])
+	var letters = {}
+	
+	for aftertaste in arr.aftertaste:
+		for letter in aftertaste:
+			if !letters.has(letter):
+				letters[letter] = 0
+			
+			letters[letter] += 1
+	
+	var keys = letters.keys()
+	keys.sort_custom(func(a, b): return letters[a] < letters[b])
+	var sorted_lettes = {}
+	for letter in keys:
+		sorted_lettes[letter] = letters[letter]
+	#print(sorted_lettes)
+	#print(sorted_lettes.keys().size())
+	return keys
 	
 func init_color():
 	pass
@@ -147,6 +203,3 @@ func set_combinations_based_on_size(combinations_: Dictionary, size_: int) -> vo
 				
 				if !combinations_[size_].has(combination):
 					combinations_[size_].append(combination)
-	
-func get_str_aspect(aspect_: TokenResource.Type) -> String:
-	return TokenResource.Aspect.keys()[aspect_].to_lower().capitalize()

@@ -101,7 +101,7 @@
  },
  {
   "index": 20,
-  "title": "razor",
+  "title": "shaver",
   "type": "weapon"
  },
  {
@@ -444,7 +444,7 @@
  },
  {
   "index": 69,
-  "title": "vortex",
+  "title": "whirl",
   "type": "element",
   "subtype": 1,
   "offense": 1,
@@ -459,7 +459,7 @@
  },
  {
   "index": 71,
-  "title": "breeze",
+  "title": "blow",
   "type": "element",
   "subtype": 1,
   "offense": 2
@@ -494,7 +494,7 @@
  },
  {
   "index": 76,
-  "title": "blaze",
+  "title": "spark",
   "type": "element",
   "subtype": 2,
   "offense": 2
@@ -607,7 +607,7 @@
  },
  {
   "index": 91,
-  "title": "hazy",
+  "title": "vapor",
   "type": "element",
   "subtype": 0.2,
   "defense": 2
@@ -901,7 +901,7 @@
  },
  {
   "index": 130,
-  "title": "puzzle",
+  "title": "riddle",
   "type": "element",
   "subtype": 7,
   "offense": 1,
@@ -1030,14 +1030,14 @@
  },
  {
   "index": 147,
-  "title": "honor",
+  "title": "purity",
   "type": "element",
   "subtype": 4.5,
   "defense": 2
  },
  {
   "index": 148,
-  "title": "toxic",
+  "title": "bane",
   "type": "element",
   "subtype": 6.7,
   "offense": 2
@@ -1258,7 +1258,7 @@
  },
  {
   "index": 189,
-  "title": "eject",
+  "title": "cast",
   "type": "reaction"
  },
  {
@@ -1303,7 +1303,7 @@
  },
  {
   "index": 198,
-  "title": "jump",
+  "title": "shift",
   "type": "reaction"
  },
  {
@@ -1388,7 +1388,7 @@
  },
  {
   "index": 215,
-  "title": "injury",
+  "title": "sore",
   "type": "effect"
  },
  {

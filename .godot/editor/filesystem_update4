@@ -1,0 +1,4 @@
+res://entities/world/world.tscn
+res://script/Global.gd
+res://entities/word/word.json
+res://entities/skald/song/song_resource.gd
